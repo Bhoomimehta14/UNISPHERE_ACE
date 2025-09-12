@@ -21,7 +21,6 @@ export default function Layout({ children, role }: LayoutProps) {
         return [
           { href: '/student/dashboard', label: 'Dashboard', icon: '🏠' },
           { href: '/student/courses', label: 'My Courses', icon: '📚' },
-          { href: '/student/grades', label: 'Grades', icon: '📊' },
           { href: '/student/timetable', label: 'Timetable', icon: '📅' },
           { href: '/student/events', label: 'Events Discovery', icon: '🎉' },
           { href: '/student/resources', label: 'Resource Booking', icon: '🏫' },
