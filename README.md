@@ -38,9 +38,9 @@ A comprehensive campus management platform built with Next.js, designed to conne
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Bhoomimehta14/UNISPHERE_ACE]
+git clone https://github.com/Bhoomimehta14/UNISPHERE_ACE.git
 
-# Install dependenciescl
+# Install dependencies
 npm install
 
 # Run development server
